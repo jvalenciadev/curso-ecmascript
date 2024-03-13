@@ -1,0 +1,19 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Curso de Platzi ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvalenciadev/curso-ecmascript.git"
+  },
+  "author": "Juan Valencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvalenciadev/curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/jvalenciadev/curso-ecmascript#readme"
+}
