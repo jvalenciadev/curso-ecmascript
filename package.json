@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jvalenciadev/curso-ecmascript/issues"
   },
-  "homepage": "https://github.com/jvalenciadev/curso-ecmascript#readme"
+  "homepage": "https://github.com/jvalenciadev/curso-ecmascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
